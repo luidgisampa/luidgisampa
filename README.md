@@ -10,8 +10,7 @@
 
 ### - 📚 Estudo programação a quase 4 anos 📚
 ### - ✨ Meu projeto de destaque e uma pokedex ✨
-### - 🎮 Gosto muito de jogar 🎮
-### - 🍰 minha comida favorita e chessecake de morango 🍰
+### - 🎮 Gosto muito de programar jogos 🎮
 
 ##
 

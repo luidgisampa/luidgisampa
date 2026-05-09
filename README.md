@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://i0.wp.com/media0.giphy.com/media/e8rK4SEUcmniU/giphy.gif" width="450px"/>
-
 # 👋 Olá! Eu sou o Luidgi
+
+<img src="https://i0.wp.com/media0.giphy.com/media/e8rK4SEUcmniU/giphy.gif" width="450px"/>
 
 💻 Desenvolvedor apaixonado por tecnologia, jogos e robótica  
 🎮 Criador de jogos, sistemas e experiências interativas  
@@ -51,24 +51,12 @@
 
 ---
 
-# 🌐 Redes e Contato
-
-<div align="center">
-
-<a href="https://github.com/luidgisampa">
-    <img src="https://skillicons.dev/icons?i=github" />
-</a>
-
-</div>
-
----
-
 # 🛠️ Tecnologias e Ferramentas
 
 <div align="center">
 
 <img 
-    src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,python,cpp,cs,git,github,vscode,arduino,godot,blender"
+    src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,cpp,cs,git,vscode,arduino,godot"
  />
 
 </div>
@@ -85,19 +73,6 @@
 ⚙️ Automações
 🎨 Design e Criatividade
 ```
-
----
-
-# 📊 Estatísticas GitHub
-
-<div align="center">
-
-<a href="https://github.com/luidgisampa">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=luidgisampa&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luidgisampa&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"/>
-
-</div>
 
 ---
 

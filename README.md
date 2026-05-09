@@ -55,10 +55,6 @@
 
 <div align="center">
 
-<a href="https://www.youtube.com/@GlodenPlayer54">
-    <img src="https://skillicons.dev/icons?i=youtube" />
-</a>
-
 <a href="https://github.com/luidgisampa">
     <img src="https://skillicons.dev/icons?i=github" />
 </a>

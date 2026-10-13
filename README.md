@@ -56,7 +56,7 @@
 <div align="center">
 
 <img 
-    src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,cpp,cs,git,vscode,arduino,godot"
+    src="https://skillicons.dev/icons?i=html,css,js,react,cs,git,vscode,arduino,godot"
  />
 
 </div>
